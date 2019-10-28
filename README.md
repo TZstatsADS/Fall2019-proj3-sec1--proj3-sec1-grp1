@@ -15,10 +15,10 @@ Term: Fall 2019
 	+ Daniel Lee
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. We used multiple models to imporve accuracy of emotion recognition. We used:
-- GBM
-- XGBoost
-- CNN 
-- Naive Bayes
+	+ GBM (Gradient Boosting Machine)
+	+ XGBoost
+	+ CNN (Convolutional Neural Network)
+	+ Naive Bayes Classifier
 We set GBM model as the baseline model and tried other models for better accuracy. 
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
