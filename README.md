@@ -6,13 +6,13 @@
 
 Term: Fall 2019
 
-+ Team ##
++ Team 8
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Suzy Gao
+	+ Bingqian Wu
+	+ Tushar
+	+ Lulu dong
+	+ Daniel Lee
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. 
 	
