@@ -10,8 +10,8 @@ Term: Fall 2019
 + Team members
 	+ Suzy Gao
 	+ Bingqian Wu
-	+ Tushar
-	+ Lulu dong
+	+ Tushar Vijay Ponkshe
+	+ Lulu Dong
 	+ Daniel Lee
 
 + Project summary: In this project, we created a classification engine for facial emotion recognition. We used multiple models to imporve accuracy of emotion recognition. We used:
