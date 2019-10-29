@@ -6,7 +6,7 @@
 
 Term: Fall 2019
 
-+ Team 8
++ Team 1
 + Team members
 	+ Suzy Gao
 	+ Bingqian Wu
