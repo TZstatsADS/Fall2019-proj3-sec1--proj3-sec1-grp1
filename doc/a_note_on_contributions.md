@@ -13,3 +13,5 @@ All team members contributed to the GitHub repository and prepared the presentat
 Bingquan Wu: Write gbm baseline model and CNN model; Translate 'feature.R' into python code; 
 
 Daniel Lee: Worked on organizing GitHub; Convert R coding into python
+
+Tushar Ponkshe: Migrated R code to Python - set directories, read .mat files from data dir, create fiducial point list, train/test split. 
