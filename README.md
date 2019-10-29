@@ -21,7 +21,7 @@ Term: Fall 2019
 	+ CNN (Convolutional Neural Network)
 	+ Naive Bayes Classifier
 	
-We set GBM model as the baseline model and tried other models for better accuracy. 
+We set GBM model as the baseline model and tried other models for better accuracy. We read images and extracted fidicual points to calculated distance between these points. With this feature data, we ran models to see which one has the best accuracy. Also, we considered processing time and computing memory usage of each models to finally select the best model.
 	
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
