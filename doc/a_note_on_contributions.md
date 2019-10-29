@@ -1,6 +1,6 @@
 ## Project 3 - Emotion recognition
 
-Team members: Bingqian Wu, Daniel Lee, Lulu dong, Suzy Gao, Tushar Vijay Ponkshe
+Team members: Bingqian Wu, Daniel Lee, Lulu Dong, Suzy Gao, Tushar Vijay Ponkshe
 
 Summary: In this project, we developed a new method and improved the emotion classification accuracy for images of people to 47%.
 
