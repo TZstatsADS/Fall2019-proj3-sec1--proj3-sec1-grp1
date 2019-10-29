@@ -17,7 +17,7 @@ Term: Fall 2019
 + Project summary: In this project, we created a classification engine for facial emotion recognition. We used multiple models to imporve accuracy of emotion recognition. We used:
 	+ GBM (Gradient Boosting Machine)
 	+ XGBoost
-	+ SVM
+	+ SVM (Support Vector Machine)
 	+ CNN (Convolutional Neural Network)
 	+ Naive Bayes Classifier
 	
