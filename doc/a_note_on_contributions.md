@@ -8,3 +8,6 @@ Summary: In this project, we developed a new method and improved the emotion cla
 Daniel worked on converting R coding into Python, organizing GitHub, and working on presentation slides.
 Bingqian worked on building CNN model and tuning it. 
 All team members contributed to the GitHub repository and prepared the presentation. All team members approve our work presented in our GitHub repository including this contribution statement.
+
+
+Bingquan Wu: Write gbm baseline model and CNN model; Translate 'feature.R' into python code; 
