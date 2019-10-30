@@ -7,3 +7,4 @@ This folder contains:
 - project description file
 - contribution file
 - feature visulization sample file in R
+- ADS Project 3 is the ppt slides for presentation
