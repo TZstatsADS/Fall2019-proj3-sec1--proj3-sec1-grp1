@@ -11,7 +11,7 @@ Bingquan Wu: Write gbm baseline model, Naive Bayes and CNN model, helped with de
 
 Daniel Lee: Worked on organizing GitHub; Convert R coding into python, calculate running costs(memory and time).
 
-Tushar Ponkshe: Migrated R code to Python - set directories, read .mat files, create fiducial point list, train/test split, calculate running costs.
+Tushar Ponkshe: Migrated R code to Python - set directories, read .mat files, created fiducial point list, train/test split, calculated running costs.
 
 Suzy Gao: Built SVM and XGboost model, applied cross validation with gird search for parameter tuning, created PPT presentation slides.
 
