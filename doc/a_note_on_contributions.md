@@ -9,7 +9,7 @@ Summary: In this project, we developed a new method and improved the emotion cla
 
 Bingquan Wu: Write gbm baseline model, Naive Bayes and CNN model, helped with debug, translate 'feature.R' into python code.
 
-Daniel Lee: Worked on organizing GitHub; Convert R coding into python, calculate running costs(memory and time).
+Daniel Lee: Worked on organizing GitHub, Worked on baseline model, Convert R coding into python, calculate running costs(memory and time).
 
 Tushar Ponkshe: Migrated R code to Python - set directories, read .mat files, created fiducial point list, train/test split, calculated running costs.
 
